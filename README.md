@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, welcome to my github. I'm Thanh Tung Le</h1>
-<h3 align="center">Making some project using HTML, CSS, JavaScript,...</h3>
+<h1 align="center">Hi there 👋, welcome to my github</h1>
+<h3 align="center">I'm Thanh Tung Le</h3>
+<h3 align="center">Making some projects using HTML, CSS, JavaScript, ReactJs...</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
