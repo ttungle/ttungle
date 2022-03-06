@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, welcome to my github. I'm Thanh Tung Le</h1>
+<h2 align="center">Hi there 👋, welcome to my github.</h1>
 <h3 align="center">Making some projects using HTML, CSS, JavaScript, ReactJS,...</h3>
 
 <p align="left">
