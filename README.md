@@ -18,7 +18,7 @@
   </a> 
   
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="mui" /> 
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="mui" /> 
   </a> 
   
   <br/>
