@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /> 
   </a> 
   
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="mui" /> 
-  </a> 
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Node.JS-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /> 
+  </a>
   
   <br/>
   <br/>
@@ -40,9 +40,20 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> 
   </a> 
   
+  <br/>
+  <br/>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/GIT-red?logo=git&logoColor=white&style=for-the-badge" alt="git" /> 
+  </a>
+  
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="mui" /> 
   </a> 
+  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> 
+  </a>
 </p>
 
 <p>
