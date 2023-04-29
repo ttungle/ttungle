@@ -1,13 +1,9 @@
-<h1>Hi I'm Thanh Tung Le 👋</h1>
+<h2>Hi, I'm Thanh Tung Le 👋</h2>
+A passionate self-taught web developer and a software engineer. Welcome to my page!
 
-<p>Welcome to my page!</p>
+&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhtungle73&label=Profile%20views&color=0e75b6&style=flat" alt="thanhtungle73" /> </p>
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+**Languages and tools:**
 <p align="left">     
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /> 
@@ -54,7 +50,14 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> 
   </a>
+  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtungle73&show_icons=true&locale=en&layout=compact" alt="thanhtungle73" /></p>
+<br/>
+
+**My github most used languages & stats:**
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhtungle73&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thanhtungle73" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=thanhtungle73&show_icons=true&theme=tokyonight" alt="thanhtungle73" />
